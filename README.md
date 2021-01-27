@@ -10,23 +10,3 @@ high-detail, full-precision 3D engineering and BIM models in the browser.
 [![Peek-2019-10-22-10-57](https://user-images.githubusercontent.com/83100/67271586-14690780-f4bb-11e9-9e76-203fe425ee08.gif)](https://xeokit.github.io/xeokit-sdk/examples/#storeyViews_StoreyViewsPlugin_recipe2)
 
 
-## Usage
-
-To install from npm:
-
-````bash
-npm i @xeokit/xeokit-sdk
-````
-
-## Resources 
-
- * [Website](https://xeokit.io/)
- * [Features](https://github.com/xeokit/xeokit-sdk/wiki/Features)
- * [Examples](http://xeokit.github.io/xeokit-sdk/examples/)
- * [User Guides](https://github.com/xeokit/xeokit-sdk/wiki)
- * [API Documentation](https://xeokit.github.io/xeokit-sdk/docs/)
- * [Roadmap](https://github.com/xeokit/xeokit-sdk/wiki/Roadmap)
- * [License](https://github.com/xeokit/xeokit-sdk/wiki/License)
- * [Contact](http://xeolabs.com/contact/)
-
-
